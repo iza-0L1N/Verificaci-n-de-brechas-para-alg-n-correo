@@ -1,0 +1,17 @@
+2025-09-12 00:26:25,894 - INFO - Consulta exitosa para correo@example.com.                Brechas encontradas: 13
+2025-09-12 00:26:26,799 - ERROR - Error al consultar detalles                               de la brecha Cit0day: I/O operation on closed file.
+2025-09-12 00:31:43,338 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:31:43,339 - ERROR - Error al escribir reporte.csv: [Errno 13] Permission denied: 'reporte.csv'
+2025-09-12 00:33:29,941 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:33:30,934 - ERROR - Error al consultar detalles                               de la brecha ZLib: I/O operation on closed file.
+2025-09-12 00:41:03,335 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:41:04,151 - ERROR - Error al consultar detalles                               de la brecha ZLib: I/O operation on closed file.
+2025-09-12 00:42:50,035 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:42:50,771 - ERROR - Error al consultar detalles                               de la brecha ZLib: I/O operation on closed file.
+2025-09-12 00:47:18,849 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:47:18,851 - ERROR - Error al escribir reporte.csv: [Errno 13] Permission denied: 'reporte.csv'
+2025-09-12 00:47:31,044 - INFO - Consulta exitosa para izalorencez@gmail.com.                Brechas encontradas: 1
+2025-09-12 00:49:06,936 - INFO - Consulta exitosa para correo@example.com.                Brechas encontradas: 13
+2025-09-12 00:51:13,021 - INFO - Consulta exitosa para correo@example.com.                Brechas encontradas: 13
+2025-09-12 00:51:13,023 - ERROR - Error al escribir reporte.csv: [Errno 13] Permission denied: 'reporte.csv'
+2025-09-12 00:51:21,740 - INFO - Consulta exitosa para correo@example.com.                Brechas encontradas: 13
